@@ -1,0 +1,101 @@
+[0001.68] Log: Async Log file open, 05/02/20 15:25:31
+[0001.68] Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[0001.68] Log:  ... running in INSTALLED mode
+[0001.68] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+[0001.68] Init: Version: 10897
+[0001.68] Init: Epic Internal: 0
+[0001.68] Init: Compiled (64-bit): Apr 23 2020 16:02:33
+[0001.68] Init: Changelist: 1532151
+[0001.68] Init: Command line: -pid=402 -epic -anon  -seekfreeloadingPCConsole -eac_dir ..\EasyAntiCheat -AUTH_LOGIN=unused -AUTH_PASSWORD=a17d23fe874648b48fbe3d8f60f28a53 -AUTH_TYPE=exchangecode -epicapp=Antbird -epicenv=Prod -EpicPortal  -epicusername="Slayerdslasher" -epicuserid=c28f3fe73ba942ada4def7ea3e961fb7 -epiclocale=en
+[0001.68] Init: Base directory: C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\
+[0002.90] Init: Computer: 28STABWOUNDS-EX
+[0002.90] Init: User: REABERBOY666
+[0002.90] Init: CPU Page size=4096, Processors=2, Cores=2
+[0002.90] Init: High frequency timer resolution =10.000000 MHz
+[0002.90] Init: Memory total: Physical=3.8GB (3GB approx) Pagefile=5.7GB Virtual=131072.0GB
+[0003.39] DevOnline: Initializing MCTS
+[0005.30] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x9910a0,ToXml(request, true)=<Request requestId="" action="Aux.GetCaptureDevices.1" />
+[0005.30] VoiceChat: 
+[0005.30] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x9910a0,ToXml(request, true)=<Request requestId="" action="Aux.GetRenderDevices.1" />
+[0005.30] VoiceChat: 
+[0005.30] VoiceChat: Vivox Version: 4.9.0002.31672
+[0005.30] Init: Game is version 3.3.3657.3.
+[0005.30] Log: Steam Client API Disabled!
+[0005.34] Log: Initializing Epic Online Services
+[0005.34] DevOnline: Epic Logging Callback Set
+[0005.34] DevOnline: Epic Logging Level Set to 600
+[0005.34] DevOnline: Loaded Epic Online Services Config: fcb692f0fdf14526b1ffbb77cf1ef288 badb0ee71b474ed591ec43212547cfc8 ae0ea0ebb4454bb680bb5194d4ef4747 8435581525284b85aa68d8733a5e2caa
+[0005.34] DevOnline: Epic SDK: LogEOS: Updating Platform SDK Config, Time: 0.000000
+[0007.04] DevOnline: Epic SDK: LogEOSOverlay: Overlay loaded and initialized
+[0007.23] DevOnline: Epic SDK: LogEOSMessaging: Stomp: Empty URL Specified!
+[0007.23] DevOnline: Epic SDK: LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+[0007.23] Log: Epic Online Services API initialized 1
+[0007.23] Init: Presizing for 110000 objects not considered by GC, pre-allocating 0 bytes.
+[0007.23] Init: Object subsystem initialized
+[0007.23] Log: Got Epic Online Services Language: en which is LangExt INT
+[0007.26] Log: CachePaths() took 0.02 Seconds
+[0007.26] Log: TgAIBehaviorTreeManager :: Loading behavior trees
+[0007.40] Log: TgAIBehaviorTreeManager :: Successfully loaded behavior trees
+[0009.05] Log: Landing Panel http://cds.q6u4m8x5.hwcdn.net/LandingPanel/Paladins/live/
+[0009.38] Log: SystemSettings based on: SystemSettings
+[0009.38] Log: SystemSettings based on: SystemSettings
+[0009.38] Log: SystemSettings based on: SystemSettings
+[0009.38] Log: SystemSettings based on: SystemSettings
+[0009.38] Log: SystemSettings based on: SystemSettings
+[0009.39] Log: SystemSettings based on: SystemSettings
+[0009.39] Log: SystemSettings based on: SystemSettings
+[0009.39] Log: SystemSettings based on: SystemSettings
+[0009.39] Log: SystemSettings based on: SystemSettings
+[0009.39] Log: SystemSettings based on: SystemSettings
+[0009.62] Warning: Warning, Command line -d3d11 set, but D3D11 is not supported on this machine.  Will fallback to older API.
+[0011.84] Log: Shader platform (RHI): PC-D3D-SM3
+[0012.07] Log: PhysX GPU Support: DISABLED
+[0012.71] Log: FEACClient being initialized
+[0017.73] Log: Assembly load started
+[0034.03] Log: Assembly Loaded Version: DBExport: 04/24/2020 13:29:06,  Src=devsql.hirezcorp.com:paladins_live_build_3_3, LangSrc=devsql.hirezcorp.com:paladins_translations,
+[0034.03] Log: Assembly load completed in 16.30 seconds
+[0038.44] Log: FMaterialUniformExpressionTexture had invalid TextureIndex! (2/2)
+[0038.45] Log: TFC Version check: Low=3.3.3657.0 High=3.3.3657.0, Result=TRUE
+[0038.57] Log: Skipping adding Package OnlineSubsystemEpic to NetPackages
+[0038.59] Log: Skipping adding Package OnlineSubsystemPC to NetPackages
+[0056.46] Log: 129884 objects as part of root set at end of initial load.
+[0056.46] Log: 0 out of 0 bytes used by permanent object pool.
+[0056.46] Warning: StaticLoadObject for SwfMovie GFXFonts fonts_en couldn't find object in memory!
+[0056.46] Warning: Warning, Failed to load 'SwfMovie GFXFonts.fonts_en': Failed to find object 'SwfMovie GFXFonts.fonts_en'
+[0058.05] Log: Initializing Engine...
+[0058.64] Log: Discord Game SDK initialized 0
+[0058.73] Log: [FSocketWin::Bind] Binding to 0.0.0.0:7778
+[0058.73] DevNet: PComNetDriver_0(PEER) TcpNetDriver listening on port 7778
+[0059.35] Log: Couldn't find Master sound class! This class is required for the audio sound mode system to function!
+[0059.38] Log: Wwise(R) SDK Version 2016.2.3 Build 6077. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0059.38] Log: Start loading WWise Package Lookup Tables
+[0071.27] Log: Finished loading Wwise Packages.
+[0073.64] Log: Destroying viewport RHI due to zero NewSizeX and zero NewSizeY!
+[0073.64] Log: FViewport::UpdateViewportRHI(TRUE,0,0,TRUE)
+[0073.67] ScriptWarning: Script call stack:
+	Function TgClient.TgGameViewportClient:Init
+	Function PlatformCommon.PComGameViewportClient:Init
+	Function Engine.GameViewportClient:Init
+
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
+[0073.67] ScriptWarning: Assertion failed, line 703
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
+[0086.40] Critical: appError called: Rendering thread exception:
+Fatal error!
+
+Address = 0x76a115db (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x75e5e8ac (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x76947141 (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x7697c212 (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x76979071 (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x7696b951 (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x760f238b (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x760f298c (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x75f58d22 (filename not found) [in C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\Paladins.exe]
+Address = 0x98557bd4 (filename not found) [in C:\Windows\System32\KERNEL32.DLL]
+Address = 0x9900ce51 (filename not found) [in C:\Windows\SYSTEM32\ntdll.dll]
+Address = 0x9900ce51 (filename not found) [in C:\Windows\SYSTEM32\ntdll.dll]
+
+[0086.40] Critical: Windows GetLastError: Overlapped I/O operation is in progress. (0)

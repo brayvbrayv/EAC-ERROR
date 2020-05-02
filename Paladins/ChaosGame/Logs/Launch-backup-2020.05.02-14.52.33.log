@@ -1,0 +1,100 @@
+[0004.27] Log: Async Log file open, 05/01/20 18:38:48
+[0004.27] Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[0004.27] Log:  ... running in INSTALLED mode
+[0004.27] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+[0004.27] Init: Version: 10897
+[0004.27] Init: Epic Internal: 0
+[0004.27] Init: Compiled (32-bit): Apr 23 2020 15:55:10
+[0004.27] Init: Changelist: 1532151
+[0004.27] Init: Command line: -pid=402 -steam -anon  -seekfreeloadingPCConsole -eac_dir "..\\EasyAntiCheat\\" -dx9
+[0004.27] Init: Base directory: C:\Program Files (x86)\Steam\steamapps\common\Paladins\Binaries\Win32\
+[0006.23] Init: Computer: 28STABWOUNDS-EX
+[0006.23] Init: User: REABERBOY666
+[0006.23] Init: CPU Page size=4096, Processors=2, Cores=2
+[0006.23] Init: High frequency timer resolution =10.000000 MHz
+[0006.23] Init: Memory total: Physical=3.8GB (3GB approx) Pagefile=5.7GB Virtual=4.0GB
+[0008.01] DevOnline: Initializing MCTS
+[0009.71] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0xa2a5200,ToXml(request, true)=<Request requestId="" action="Aux.GetCaptureDevices.1" />
+[0009.71] VoiceChat: 
+[0009.71] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0xa2a5200,ToXml(request, true)=<Request requestId="" action="Aux.GetRenderDevices.1" />
+[0009.71] VoiceChat: 
+[0009.71] VoiceChat: Vivox Version: 4.9.0002.31672
+[0009.71] Init: Game is version 3.3.3657.3.
+[0023.19] Log: Initializing Steamworks
+[0023.19] Log: Steam Client API initialized 1
+[0023.19] Log: [OnlineSubsystemSteamworks.OnlineSubsystemSteamworks].GameVersion is not set. Server advertising will fail
+[0023.19] Log: Steam Game Server API initialized 0
+[0023.19] Log: Epic Online Services API Disabled!
+[0023.19] Init: Presizing for 110000 objects not considered by GC, pre-allocating 0 bytes.
+[0023.20] Init: Object subsystem initialized
+[0023.20] Log: Got Steam Language: english which is LangExt INT
+[0023.23] Log: CachePaths() took 0.03 Seconds
+[0023.23] Log: TgAIBehaviorTreeManager :: Loading behavior trees
+[0023.57] Log: TgAIBehaviorTreeManager :: Successfully loaded behavior trees
+[0027.31] Log: Landing Panel http://cds.q6u4m8x5.hwcdn.net/LandingPanel/Paladins/live/
+[0027.69] Log: SystemSettings based on: SystemSettings
+[0027.69] Log: SystemSettings based on: SystemSettings
+[0027.70] Log: SystemSettings based on: SystemSettings
+[0027.70] Log: SystemSettings based on: SystemSettings
+[0027.70] Log: SystemSettings based on: SystemSettings
+[0027.70] Log: SystemSettings based on: SystemSettings
+[0027.70] Log: SystemSettings based on: SystemSettings
+[0027.70] Log: SystemSettings based on: SystemSettings
+[0027.71] Log: SystemSettings based on: SystemSettings
+[0027.71] Log: SystemSettings based on: SystemSettings
+[0027.72] Log: D3D11 is disabled for 32-bit.
+[0044.17] Log: Shader platform (RHI): PC-D3D-SM3
+[0044.49] Log: PhysX GPU Support: DISABLED
+[0045.13] Log: FEACClient being initialized
+[0048.23] Log: Assembly load started
+[0059.51] Log: Assembly Loaded Version: DBExport: 04/24/2020 13:29:06,  Src=devsql.hirezcorp.com:paladins_live_build_3_3, LangSrc=devsql.hirezcorp.com:paladins_translations,
+[0059.51] Log: Assembly load completed in 11.27 seconds
+[0065.09] Log: FMaterialUniformExpressionTexture had invalid TextureIndex! (2/2)
+[0065.10] Log: TFC Version check: Low=3.3.3657.0 High=3.3.3657.0, Result=TRUE
+[0065.39] Log: Skipping adding Package OnlineSubsystemSteamworks to NetPackages
+[0065.47] Log: Skipping adding Package OnlineSubsystemPC to NetPackages
+[0081.68] Log: 129967 objects as part of root set at end of initial load.
+[0081.68] Log: 0 out of 0 bytes used by permanent object pool.
+[0081.69] Warning: StaticLoadObject for SwfMovie GFXFonts fonts_en couldn't find object in memory!
+[0081.71] Warning: Warning, Failed to load 'SwfMovie GFXFonts.fonts_en': Failed to find object 'SwfMovie GFXFonts.fonts_en'
+[0084.43] Log: Initializing Engine...
+[0086.06] Log: Discord Game SDK initialized 0
+[0086.60] Log: [FSocketWin::Bind] Binding to 0.0.0.0:7778
+[0086.60] DevNet: PComNetDriver_0(PEER) TcpNetDriver listening on port 7778
+[0089.80] Log: Couldn't find Master sound class! This class is required for the audio sound mode system to function!
+[0089.83] Log: Wwise(R) SDK Version 2016.2.3 Build 6077. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0090.17] Log: Start loading WWise Package Lookup Tables
+[0109.40] Log: Finished loading Wwise Packages.
+[0125.19] Log: Destroying viewport RHI due to zero NewSizeX and zero NewSizeY!
+[0125.19] Log: FViewport::UpdateViewportRHI(TRUE,0,0,TRUE)
+[0125.27] Log: Logged in as 'brayden.linder'
+[0125.32] ScriptWarning: Script call stack:
+	Function TgClient.TgGameViewportClient:Init
+	Function PlatformCommon.PComGameViewportClient:Init
+	Function Engine.GameViewportClient:Init
+
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
+[0125.32] ScriptWarning: Assertion failed, line 703
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
+[0139.68] Critical: appError called: Rendering thread exception:
+Fatal error!
+
+Address = 0x11a94fd  (filename not found) [in C:\Program Files (x86)\Steam\steamapps\common\Paladins\Binaries\Win32\Paladins.exe]
+
+[0139.68] Critical: Windows GetLastError: The system cannot find the file specified. (2)
+[0139.82] Log: === Critical error: ===
+Rendering thread exception:
+Fatal error!
+
+Address = 0x11a94fd  (filename not found) [in C:\Program Files (x86)\Steam\steamapps\common\Paladins\Binaries\Win32\Paladins.exe]
+
+
+
+[0140.17] Exit: Executing UObject::StaticShutdownAfterError
+[0140.22] Exit: Executing UWindowsClient::ShutdownAfterError
+[0140.31] Exit: Executing UWindowsClient::ShutdownAfterError
+[0140.31] Exit: UXAudio2Device::ShutdownAfterError
+[0140.38] Exit: UAkAudioDevice::ShutdownAfterError
+[0140.49] Log: appRequestExit(1)(0)

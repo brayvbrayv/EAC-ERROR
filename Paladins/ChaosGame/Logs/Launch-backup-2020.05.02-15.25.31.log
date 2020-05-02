@@ -1,0 +1,375 @@
+[0001.98] Log: Async Log file open, 05/02/20 15:15:14
+[0001.98] Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[0001.98] Log:  ... running in INSTALLED mode
+[0001.98] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+[0001.98] Init: Version: 10897
+[0001.98] Init: Epic Internal: 0
+[0001.98] Init: Compiled (64-bit): Apr 23 2020 16:02:33
+[0001.98] Init: Changelist: 1532151
+[0001.98] Init: Command line: -pid=402 -epic -anon  -seekfreeloadingPCConsole -eac_dir ..\EasyAntiCheat -AUTH_LOGIN=unused -AUTH_PASSWORD=b2c704b948494f7089718a34f0b8a188 -AUTH_TYPE=exchangecode -epicapp=Antbird -epicenv=Prod -EpicPortal  -epicusername="Slayerdslasher" -epicuserid=c28f3fe73ba942ada4def7ea3e961fb7 -epiclocale=en
+[0001.98] Init: Base directory: C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\
+[0003.06] Init: Computer: 28STABWOUNDS-EX
+[0003.06] Init: User: REABERBOY666
+[0003.06] Init: CPU Page size=4096, Processors=2, Cores=2
+[0003.06] Init: High frequency timer resolution =10.000000 MHz
+[0003.06] Init: Memory total: Physical=3.8GB (3GB approx) Pagefile=5.7GB Virtual=131072.0GB
+[0004.04] DevOnline: Initializing MCTS
+[0004.80] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4f05720,ToXml(request, true)=<Request requestId="" action="Aux.GetCaptureDevices.1" />
+[0004.80] VoiceChat: 
+[0004.80] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4f05720,ToXml(request, true)=<Request requestId="" action="Aux.GetRenderDevices.1" />
+[0004.80] VoiceChat: 
+[0004.80] VoiceChat: Vivox Version: 4.9.0002.31672
+[0004.80] Init: Game is version 3.3.3657.3.
+[0004.80] Log: Steam Client API Disabled!
+[0004.84] Log: Initializing Epic Online Services
+[0004.84] DevOnline: Epic Logging Callback Set
+[0004.84] DevOnline: Epic Logging Level Set to 600
+[0004.84] DevOnline: Loaded Epic Online Services Config: fcb692f0fdf14526b1ffbb77cf1ef288 badb0ee71b474ed591ec43212547cfc8 ae0ea0ebb4454bb680bb5194d4ef4747 8435581525284b85aa68d8733a5e2caa
+[0004.84] DevOnline: Epic SDK: LogEOS: Updating Platform SDK Config, Time: 0.000000
+[0005.95] DevOnline: Epic SDK: LogEOSOverlay: Overlay loaded and initialized
+[0006.30] DevOnline: Epic SDK: LogEOSMessaging: Stomp: Empty URL Specified!
+[0006.30] DevOnline: Epic SDK: LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+[0006.30] Log: Epic Online Services API initialized 1
+[0006.30] Init: Presizing for 110000 objects not considered by GC, pre-allocating 0 bytes.
+[0006.30] Init: Object subsystem initialized
+[0006.30] Log: Got Epic Online Services Language: en which is LangExt INT
+[0006.51] Log: CachePaths() took 0.16 Seconds
+[0006.51] Log: TgAIBehaviorTreeManager :: Loading behavior trees
+[0006.75] Log: TgAIBehaviorTreeManager :: Successfully loaded behavior trees
+[0008.43] Log: Landing Panel http://cds.q6u4m8x5.hwcdn.net/LandingPanel/Paladins/live/
+[0008.61] Log: SystemSettings based on: SystemSettings
+[0008.61] Log: SystemSettings based on: SystemSettings
+[0008.62] Log: SystemSettings based on: SystemSettings
+[0008.62] Log: SystemSettings based on: SystemSettings
+[0008.62] Log: SystemSettings based on: SystemSettings
+[0008.62] Log: SystemSettings based on: SystemSettings
+[0008.62] Log: SystemSettings based on: SystemSettings
+[0008.62] Log: SystemSettings based on: SystemSettings
+[0008.63] Log: SystemSettings based on: SystemSettings
+[0008.63] Log: SystemSettings based on: SystemSettings
+[0009.14] Log: Found D3D11 adapter 0: Microsoft Basic Render Driver
+[0009.14] Log: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 1966MB of shared system memory
+[0009.16] Log: Shader platform (RHI): PC-D3D-SM5
+[0009.45] Log: PhysX GPU Support: DISABLED
+[0010.37] Log: FEACClient being initialized
+[0014.88] Log: Assembly load started
+[0044.73] Log: Assembly Loaded Version: DBExport: 04/24/2020 13:29:06,  Src=devsql.hirezcorp.com:paladins_live_build_3_3, LangSrc=devsql.hirezcorp.com:paladins_translations,
+[0044.73] Log: Assembly load completed in 29.85 seconds
+[0048.42] Log: FMaterialUniformExpressionTexture had invalid TextureIndex! (2/2)
+[0048.44] Log: TFC Version check: Low=3.3.3657.0 High=3.3.3657.0, Result=TRUE
+[0048.55] Log: Skipping adding Package OnlineSubsystemEpic to NetPackages
+[0048.57] Log: Skipping adding Package OnlineSubsystemPC to NetPackages
+[0063.74] Log: 129884 objects as part of root set at end of initial load.
+[0063.74] Log: 0 out of 0 bytes used by permanent object pool.
+[0063.74] Warning: StaticLoadObject for SwfMovie GFXFonts fonts_en couldn't find object in memory!
+[0063.74] Warning: Warning, Failed to load 'SwfMovie GFXFonts.fonts_en': Failed to find object 'SwfMovie GFXFonts.fonts_en'
+[0065.60] Log: Initializing Engine...
+[0066.43] Log: Discord Game SDK initialized 0
+[0066.51] Log: [FSocketWin::Bind] Binding to 0.0.0.0:7778
+[0066.51] DevNet: PComNetDriver_0(PEER) TcpNetDriver listening on port 7778
+[0067.46] Log: Couldn't find Master sound class! This class is required for the audio sound mode system to function!
+[0067.48] Log: Wwise(R) SDK Version 2016.2.3 Build 6077. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0067.48] Log: Start loading WWise Package Lookup Tables
+[0113.38] Log: Finished loading Wwise Packages.
+[0116.95] Log: FViewport::UpdateViewportRHI(FALSE,1024,768,TRUE)
+[0116.97] Log: LogGPUDriverInfo: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[0116.97] Log: D3D11 Driver Details:
+[0116.97] Log: Adapter Name: Microsoft Basic Render Driver
+[0116.97] Log: Driver Version Unknown (internal: Unknown)
+[0116.97] Log: Driver Date Unknown
+[0118.15] Log: CreateSwapChain with DXGI_SWAP_EFFECT_FLIP_DISCARD
+[0118.21] ScriptWarning: Script call stack:
+	Function TgClient.TgGameViewportClient:Init
+	Function PlatformCommon.PComGameViewportClient:Init
+	Function Engine.GameViewportClient:Init
+
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
+[0118.21] ScriptWarning: Assertion failed, line 703
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
+[0118.31] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0118.31] Warning: Warning, Failed to find object 'Class None.'
+[0118.31] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0118.32] Warning: Warning, Failed to find object 'Class None.'
+[0118.32] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0118.32] Warning: Warning, Failed to find object 'Class None.'
+[0118.32] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0118.32] Warning: Warning, Failed to find object 'Class None.'
+[0118.42] DevNet: Browse: LobbyMapV4_P?Name=Player?Team=255?DefaultCharacter=TgGame.TgCharacter
+[0118.42] Log: FEACClient::Send preload map event
+[0118.42] Log: FEACClient OnGameServerDisconnect
+[0118.45] Log: LoadMap: LobbyMapV4_P?Name=Player?Team=255?DefaultCharacter=TgGame.TgCharacter
+[0125.57] Log: Map Game ID = 0
+[0125.57] Log: Map Instance ID = 278454238
+[0125.62] Log: Performance: Critical section Lock/Unlock 52 nsec
+[0125.89] Log: Performance:  appCycles 2637 nsec
+[0126.13] Log: Performance:  memCopy per KB 1177 nsec
+[0126.27] Log: Performance:  memZero per KB 677 nsec
+[0126.28] Log: Performance:  appInterlockedIncrement 17 nsec
+[0126.29] Log: Performance:  GetTickCount 3 nsec
+[0126.41] TgSLO: Async Load: LobbyRefs_SF
+[0126.42] TgSLO: Async Load: LobbyUI_SF
+[0126.42] Log: Flushing async loaders. MinPriority=ALP_Immediate
+[0127.87] TgSLO: Finish Load: LobbyRefs_SF
+[0134.87] TgSLO: Finish Load: LobbyUI_SF
+[0134.87] Log: Flushed async loaders.
+[0134.87] Log: Game class is 'TgGameLaunch'
+[0136.93] Log: Match ID: 0
+[0136.96] Log: Primary PhysX scene will be in software.
+[0136.96] Log: Creating Primary PhysX Scene.
+[0138.08] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[0138.08] Log: Bringing World LobbyMapV4_P.TheWorld up for play (0) at 2020.05.02-15.17.30
+[0138.09] Log: Skipping initialization of FSMPartPool!
+[0138.11] Log: Bringing up level for play took: 1.187891
+[0138.11] Error: (Function Engine.GameInfo:ChoosePlayerStart:0102) Cannot use AllNavigationPoints() here - NavigationPointList not set up yet
+[0138.12] Log: Initializing custom image creator...
+[0138.32] Log: UTgGfxScene Initialize: UIMenuManager
+[0138.43] Log: Requested local load of 'patchnotes' JSON
+[0138.50] Log: JSON file exists at requested location. Triggering load...
+[0138.50] Log: Successfully loaded patchnotes JSON data. Attempting to parse...
+[0138.50] Log: Parsing successful. Loading patchnotes entries...
+[0138.50] Log: Successfully loaded 0 patchnotes entries in 0 patchnotes groups
+[0138.51] Log: TgClientHUD Begin Loading All Scenes
+[0138.51] Log: TgClientHUD Load Scene: UIBackground
+[0138.51] Log: TgClientHUD Load Scene: UIStoreDetail
+[0138.51] Log: TgClientHUD Load Scene: UIHome
+[0138.51] Log: TgClientHUD Load Scene: UIStore
+[0138.51] Log: TgClientHUD Load Scene: UIPlay
+[0138.51] Log: TgClientHUD Load Scene: UIMatchLobby
+[0138.51] Log: TgClientHUD Load Scene: UIProfile
+[0138.51] Log: TgClientHUD Load Scene: UILeaderboard
+[0138.51] Log: TgClientHUD Load Scene: UISocial
+[0138.51] Log: TgClientHUD Load Scene: UIEndOfMatchLobby
+[0138.51] Log: TgClientHUD Load Scene: UIQuests
+[0138.51] Log: TgClientHUD Load Scene: UICompetitive
+[0138.51] Log: TgClientHUD Load Scene: UIChampion
+[0138.51] Log: TgClientHUD Load Scene: UIChampionSelect
+[0138.51] Log: TgClientHUD Load Scene: UIChampionMastery
+[0138.51] Log: TgClientHUD Load Scene: UILogin
+[0138.51] Log: TgClientHUD Load Scene: UISettings
+[0138.51] Log: TgClientHUD Load Scene: UIEditLoadouts
+[0138.51] Log: TgClientHUD Load Scene: UIBattlePass
+[0138.51] Log: TgClientHUD Load Scene: UIRadialMenuEquip
+[0138.51] Log: TgClientHUD Load Scene: UIStreetStyleEvent
+[0138.51] Log: TgClientHUD Load Scene: UICalendarEvent
+[0138.51] Log: TgClientHUD Load Scene: UIAccessories
+[0138.51] Log: TgClientHUD Load Scene: UISendGift
+[0138.51] Log: TgClientHUD Load Scene: UICredits
+[0138.51] Log: TgClientHUD Load Scene: UIHeader
+[0138.51] Log: TgClientHUD Load Scene: UIFooter
+[0138.51] Log: TgClientHUD Load Scene: UILobbyChat
+[0138.51] Log: TgClientHUD Load Scene: UIProfileMini
+[0138.51] Log: TgClientHUD Load Scene: UINotificationCenter
+[0138.51] Log: TgClientHUD Load Scene: UIAccountLinkPopup
+[0138.51] Log: TgClientHUD Load Scene: UIDiscardQuestPopup
+[0138.51] Log: TgClientHUD Load Scene: UIPopup
+[0138.51] Log: TgClientHUD Load Scene: UIPopupRealMoneyPurchase
+[0138.51] Log: TgClientHUD Load Scene: UIInputPopup
+[0138.51] Log: TgClientHUD Load Scene: UICompetitivePopupWelcome
+[0138.51] Log: TgClientHUD Load Scene: UICompetitiveRankedDecay
+[0138.51] Log: TgClientHUD Load Scene: UICompetitiveRankChange
+[0138.51] Log: TgClientHUD Load Scene: UIWebBrowser
+[0138.51] Log: TgClientHUD Load Scene: UIMatchInvite
+[0138.51] Log: TgClientHUD Load Scene: UILobbyBoosterSelect
+[0138.51] Log: TgClientHUD Load Scene: UILobbyBoosterActivation
+[0138.51] Log: TgClientHUD Load Scene: UIAcquisition
+[0138.51] Log: TgClientHUD Load Scene: UICouponAcquisition
+[0138.51] Log: TgClientHUD Load Scene: UIPurchase
+[0138.51] Log: TgClientHUD Load Scene: UIPopupPartyManager
+[0138.51] Log: TgClientHUD Load Scene: UITeamInvite
+[0138.51] Log: TgClientHUD Load Scene: UISkills
+[0138.51] Log: TgClientHUD Load Scene: UITalents
+[0138.51] Log: TgClientHUD Load Scene: UIPurchaseGems
+[0138.51] Log: TgClientHUD Load Scene: UIEOMLAcquisition
+[0138.51] Log: TgClientHUD Load Scene: UIPatchNotesPopup
+[0138.51] Log: TgClientHUD Load Scene: UIReferredRewardsPopup
+[0138.51] Log: TgClientHUD Load Scene: UIKeybindPopup
+[0138.51] Log: TgClientHUD Load Scene: UIGameMenu
+[0138.51] Log: TgClientHUD Load Scene: UIFacebookLivePopup
+[0138.51] Log: TgClientHUD Load Scene: UIPopupChampionLevelUp
+[0138.51] Log: TgClientHUD Load Scene: UIPlaySettings
+[0138.52] Log: TgClientHUD Load Scene: UIStoreFilterPopup
+[0138.52] Log: TgClientHUD Load Scene: UIStoreRentSprayPopup
+[0138.52] Log: TgClientHUD Load Scene: UIPopupDeal
+[0138.52] Log: TgClientHUD Load Scene: UIBattlePassXPPurchase
+[0138.52] Log: TgClientHUD Load Scene: UIFullScreen
+[0138.52] Log: TgClientHUD Load Scene: UIMatchLobbyTradePopup
+[0138.52] Log: TgClientHUD Load Scene: UIFullScreenBattlePass
+[0138.52] Log: TgClientHUD Load Scene: UICommendationRewards
+[0138.52] Log: TgClientHUD Load Scene: UIBattlePassLevelUp
+[0138.52] Log: TgClientHUD Load Scene: UIBattlePassPurchase
+[0138.52] Log: TgClientHUD Load Scene: UIAchievementPopups
+[0138.52] Log: TgClientHUD Load Scene: UINotificationPopup
+[0138.52] Log: TgClientHUD Load Scene: UISafeFrame
+[0138.52] Log: TgClientHUD Load Scene: UIFooterGamepad
+[0138.52] Log: TgClientHUD Load Scene: UIFade
+[0138.52] Log: TgClientHUD Load Scene: UIFacebookLiveIndicator
+[0138.52] Log: TgClientHUD Finished Loading All Scenes
+[0138.52] Log: [LobbyStateLog] Changing lobby state from 0 to 1.
+[0138.53] Exit: PComNetDriver_0(PEER) shut down
+[0138.53] Log: [FSocketWin::Bind] Binding to 0.0.0.0:7778
+[0138.53] DevNet: PComNetDriver_1(PEER) TcpNetDriver listening on port 7778
+[0138.53] Log: ########### Finished loading level: 20.081137 seconds
+[0138.59] Log: Flushing async loaders. MinPriority=ALP_None
+[0145.65] Log: Flushed async loaders.
+[0145.66] Log: Starting RedrawViewports for texture streaming..
+[0146.29] Log: RedrawViewports took: 0.634176 seconds
+[0146.29] Log: Starting Level load StreamAllResources..
+[0146.31] Log: Level load StreamAllResources took: 0.021328 seconds
+[0146.31] Log: Initializing Engine Completed
+[0146.31] Log: >>>>>>>>>>>>>> Initial startup: 146.31s <<<<<<<<<<<<<<<
+[0146.36] Log: Browser user data directory is C:\ProgramData\Hi-Rez Studios\BrowserCache\Chaos
+[0150.53] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4f05720,ToXml(request, true)=<Request requestId="" action="Connector.SetLocalSpeakerVolume.1"><ConnectorHandle /><Value>60</Value></Request>
+[0150.53] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4f05720,ToXml(request, true)=<Request requestId="" action="Connector.SetLocalMicVolume.1"><ConnectorHandle /><Value>60</Value></Request>
+[0150.53] VoiceChat: Info  VivoxApi::CommandHandler::PassCommand(812) - this=0x4f05720,ToXml(&command->GetResp().base, true)=<Response requestId="" action="Connector.SetLocalSpeakerVolume.1"><ReturnCode>0</ReturnCode><Results><StatusCode>0</StatusCode><StatusString /></Results><InputXml><Request requestId="" action="Connector.SetLocalSpeakerVolume.1"><ConnectorHandle /><Value>60</Value></Request></InputXml></Response>
+[0150.53] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4f05720,ToXml(request, true)=<Request requestId="" action="Connector.MuteLocalMic.1"><ConnectorHandle /><Value>true</Value></Request>
+[0150.53] VoiceChat: Info  VivoxApi::CommandHandler::PassCommand(812) - this=0x4f05720,ToXml(&command->GetResp().base, true)=<Response requestId="" action="Connector.SetLocalMicVolume.1"><ReturnCode>0</ReturnCode><Results><StatusCode>0</StatusCode><StatusString /></Results><InputXml><Request requestId="" action="Connector.SetLocalMicVolume.1"><ConnectorHandle /><Value>60</Value></Request></InputXml></Response>
+[0150.53] VoiceChat: Info  VivoxApi::CommandHandler::PassCommand(812) - this=0x4f05720,ToXml(&command->GetResp().base, true)=<Response requestId="" action="Connector.MuteLocalMic.1"><ReturnCode>0</ReturnCode><Results><StatusCode>0</StatusCode><StatusString /></Results><InputXml><Request requestId="" action="Connector.MuteLocalMic.1"><ConnectorHandle /><Value>true</Value></Request></InputXml></Response>
+[0152.67] Log: UTgGfxScene Initialize: UIBackground
+[0152.76] Log: UTgGfxScene Initialize: UIStoreDetail
+[0152.95] Log: UTgGfxScene Initialize: UIHome
+[0153.14] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0153.14] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0153.14] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0153.14] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0153.88] Log: UTgGfxScene Initialize: UIStore
+[0154.40] Log: UTgGfxScene Initialize: UIPlay
+[0154.80] Log: UTgGfxScene Initialize: UIMatchLobby
+[0155.91] Log: UTgGfxScene Initialize: UIProfile
+[0156.45] Log: UTgGfxScene Initialize: UILeaderboard
+[0156.61] Log: UTgGfxScene Initialize: UISocial
+[0157.34] Log: UTgGfxScene Initialize: UIEndOfMatchLobby
+[0157.68] Log: UTgGfxScene Initialize: UIQuests
+[0157.80] Log: UTgGfxScene Initialize: UICompetitive
+[0157.87] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0157.87] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0157.87] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0157.87] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0158.05] Log: UTgGfxScene Initialize: UIChampion
+[0158.26] Log: UTgGfxScene Initialize: UIChampionSelect
+[0158.50] Log: UTgGfxScene Initialize: UIChampionMastery
+[0158.55] Log: UTgGfxScene Initialize: UILogin
+[0158.80] Warning: Warning, Encounted an invalid HTML tag when validating string to send to flash: <https:\www.google.com\settings\ads>
+[0159.06] Log: UTgGfxScene Initialize: UISettings
+[0159.29] Log: UTgGfxScene Initialize: UIEditLoadouts
+[0160.01] Log: UTgGfxScene Initialize: UIBattlePass
+[0160.64] Log: UTgGfxScene Initialize: UIRadialMenuEquip
+[0160.81] Log: UTgGfxScene Initialize: UIStreetStyleEvent
+[0161.00] Log: UTgGfxScene Initialize: UICalendarEvent
+[0161.27] Log: UTgGfxScene Initialize: UIAccessories
+[0161.41] Log: UTgGfxScene Initialize: UISendGift
+[0161.46] Log: UTgGfxScene Initialize: UICredits
+[0161.50] Log: UTgGfxScene Initialize: UIHeader
+[0161.52] Log: UTgGfxScene Initialize: UIFooter
+[0161.53] Log: UTgGfxScene Initialize: UILobbyChat
+[0161.72] Log: UTgGfxScene Initialize: UIProfileMini
+[0161.88] Log: UTgGfxScene Initialize: UINotificationCenter
+[0161.97] Log: UTgGfxScene Initialize: UIAccountLinkPopup
+[0161.98] Log: UTgGfxScene Initialize: UIDiscardQuestPopup
+[0161.99] Log: UTgGfxScene Initialize: UIPopup
+[0162.01] Log: UTgGfxScene Initialize: UIPopupRealMoneyPurchase
+[0162.03] Log: UTgGfxScene Initialize: UIInputPopup
+[0162.08] Log: UTgGfxScene Initialize: UICompetitivePopupWelcome
+[0162.13] Log: UTgGfxScene Initialize: UICompetitiveRankDecay
+[0162.14] Log: UTgGfxScene Initialize: UICompetitiveRankChange
+[0162.15] Log: UTgGfxScene Initialize: UIWebBrowser
+[0162.16] Log: UTgGfxScene Initialize: UIMatchInvite
+[0162.19] Log: UTgGfxScene Initialize: UILobbyBoosterSelect
+[0162.20] Log: UTgGfxScene Initialize: UILobbyBoosterActivation
+[0162.32] Log: UTgGfxScene Initialize: UIAcquisition
+[0162.45] Log: UTgGfxScene Initialize: UICouponAcquisition
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.52] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.53] Warning: Warning, Failed to load 'Font None.Montserrat SemiBold': Failed to find object 'Font None.Montserrat SemiBold'
+[0162.67] Log: UTgGfxScene Initialize: UIPurchase
+[0162.74] Log: UTgGfxScene Initialize: UIPopupPartyManager
+[0162.76] Log: UTgGfxScene Initialize: TgGfxTeamInvite
+[0162.78] Log: UTgGfxScene Initialize: UISkills
+[0162.79] Log: UTgGfxScene Initialize: UITalents
+[0162.86] Log: UTgGfxScene Initialize: UIPurchaseGems
+[0162.91] Log: UTgGfxScene Initialize: UIEOMLAcquisition
+[0162.95] Log: UTgGfxScene Initialize: UIPatchNotesPopup
+[0162.99] Log: UTgGfxScene Initialize: UIReferredRewardsPopup
+[0163.00] Log: UTgGfxScene Initialize: UIKeybindPopup
+[0163.02] Log: UTgGfxScene Initialize: UIGameMenu
+[0163.04] Log: UTgGfxScene Initialize: UIFacebookLivePopup
+[0163.08] Log: UTgGfxScene Initialize: UIPopupChampionLevelUp
+[0163.10] Log: UTgGfxScene Initialize: UIPopupPlaySettings
+[0163.15] Log: UTgGfxScene Initialize: UIStoreFilterPopup
+[0163.34] Log: UTgGfxScene Initialize: UIStoreRentSprayPopup
+[0163.38] Log: UTgGfxScene Initialize: UIPopupDeal
+[0163.43] Log: UTgGfxScene Initialize: UIBattlePassXPPurchase
+[0163.46] Log: UTgGfxScene Initialize: UIFullScreen
+[0163.47] Log: UTgGfxScene Initialize: UIMatchLobbyTradePopup
+[0163.48] Log: UTgGfxScene Initialize: UIFullScreenBattlePass
+[0163.53] Log: UTgGfxScene Initialize: UICommendationRewards
+[0163.94] Log: UTgGfxScene Initialize: UIBattlePassLevelUp
+[0163.99] Log: UTgGfxScene Initialize: UIBattlePassPurchase
+[0164.00] Log: UTgGfxScene Initialize: UIAchievementPopups
+[0164.07] Log: UTgGfxScene Initialize: UINotificationPopup
+[0164.18] Log: UTgGfxScene Initialize: UISafeFrame
+[0164.19] Log: UTgGfxScene Initialize: UIFooterGamepad
+[0164.20] Log: UTgGfxScene Initialize: UIFade
+[0164.21] Log: UTgGfxScene Initialize: UIFacebookLiveIndicator
+[0164.21] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.21] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.21] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.21] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.21] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.21] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.21] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.21] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.21] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.21] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.21] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.21] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.21] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.21] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.21] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0164.22] Warning: StaticLoadObject for SwfMovie MenuManager undefined couldn't find object in memory!
+[0164.22] Warning: Warning, Failed to load 'SwfMovie MenuManager.undefined': Failed to find object 'SwfMovie MenuManager.undefined'
+[0164.22] Log: GFx attempted to load missing object [MenuManager.undefined]
+[0169.04] Warning: TgLobbyCamera_15 has unsupported physics mode 8

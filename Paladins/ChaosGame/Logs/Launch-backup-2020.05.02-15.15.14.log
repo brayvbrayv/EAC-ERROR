@@ -1,0 +1,81 @@
+[0003.77] Log: Async Log file open, 05/02/20 14:58:35
+[0003.79] Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[0003.79] Log:  ... running in INSTALLED mode
+[0003.79] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+[0003.79] Init: Version: 10897
+[0003.79] Init: Epic Internal: 0
+[0003.79] Init: Compiled (64-bit): Apr 23 2020 16:02:33
+[0003.79] Init: Changelist: 1532151
+[0003.79] Init: Command line: -pid=402 -epic -anon  -seekfreeloadingPCConsole -eac_dir ..\EasyAntiCheat -AUTH_LOGIN=unused -AUTH_PASSWORD=15907e2508e447dbbf00948c7f8ddc4f -AUTH_TYPE=exchangecode -epicapp=Antbird -epicenv=Prod -EpicPortal  -epicusername="Slayerdslasher" -epicuserid=c28f3fe73ba942ada4def7ea3e961fb7 -epiclocale=en
+[0003.79] Init: Base directory: C:\Program Files\Epic Games\Paladins\Paladins\Binaries\Win64\
+[0003.95] Init: Computer: 28STABWOUNDS-EX
+[0003.95] Init: User: REABERBOY666
+[0003.95] Init: CPU Page size=4096, Processors=2, Cores=2
+[0003.95] Init: High frequency timer resolution =10.000000 MHz
+[0003.95] Init: Memory total: Physical=3.8GB (3GB approx) Pagefile=5.7GB Virtual=131072.0GB
+[0004.34] DevOnline: Initializing MCTS
+[0005.24] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4e2a8c0,ToXml(request, true)=<Request requestId="" action="Aux.GetCaptureDevices.1" />
+[0005.24] VoiceChat: 
+[0005.24] VoiceChat: Info  VivoxApi::CommandHandler::ProcessRequest(645) - this=0x4e2a8c0,ToXml(request, true)=<Request requestId="" action="Aux.GetRenderDevices.1" />
+[0005.24] VoiceChat: 
+[0005.24] VoiceChat: Vivox Version: 4.9.0002.31672
+[0005.24] Init: Game is version 3.3.3657.3.
+[0005.24] Log: Steam Client API Disabled!
+[0005.27] Log: Initializing Epic Online Services
+[0005.27] DevOnline: Epic Logging Callback Set
+[0005.27] DevOnline: Epic Logging Level Set to 600
+[0005.27] DevOnline: Loaded Epic Online Services Config: fcb692f0fdf14526b1ffbb77cf1ef288 badb0ee71b474ed591ec43212547cfc8 ae0ea0ebb4454bb680bb5194d4ef4747 8435581525284b85aa68d8733a5e2caa
+[0005.27] DevOnline: Epic SDK: LogEOS: Updating Platform SDK Config, Time: 0.000000
+[0006.78] DevOnline: Epic SDK: LogEOSOverlay: Overlay loaded and initialized
+[0006.97] DevOnline: Epic SDK: LogEOSMessaging: Stomp: Empty URL Specified!
+[0006.97] DevOnline: Epic SDK: LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+[0006.97] Log: Epic Online Services API initialized 1
+[0006.97] Init: Presizing for 110000 objects not considered by GC, pre-allocating 0 bytes.
+[0006.98] Init: Object subsystem initialized
+[0006.98] Log: Got Epic Online Services Language: en which is LangExt INT
+[0007.00] Log: CachePaths() took 0.02 Seconds
+[0007.00] Log: TgAIBehaviorTreeManager :: Loading behavior trees
+[0008.94] Log: TgAIBehaviorTreeManager :: Successfully loaded behavior trees
+[0011.82] Log: Landing Panel http://cds.q6u4m8x5.hwcdn.net/LandingPanel/Paladins/live/
+[0013.03] Log: SystemSettings based on: SystemSettings
+[0013.03] Log: SystemSettings based on: SystemSettings
+[0013.03] Log: SystemSettings based on: SystemSettings
+[0013.03] Log: SystemSettings based on: SystemSettings
+[0013.03] Log: SystemSettings based on: SystemSettings
+[0013.04] Log: SystemSettings based on: SystemSettings
+[0013.04] Log: SystemSettings based on: SystemSettings
+[0013.04] Log: SystemSettings based on: SystemSettings
+[0013.05] Log: SystemSettings based on: SystemSettings
+[0013.05] Log: SystemSettings based on: SystemSettings
+[0013.27] Warning: Warning, Command line -d3d11 set, but D3D11 is not supported on this machine.  Will fallback to older API.
+[0016.57] Log: Shader platform (RHI): PC-D3D-SM3
+[0017.74] Log: PhysX GPU Support: DISABLED
+[0018.64] Log: FEACClient being initialized
+[0019.94] Log: Assembly load started
+[0035.54] Log: Assembly Loaded Version: DBExport: 04/24/2020 13:29:06,  Src=devsql.hirezcorp.com:paladins_live_build_3_3, LangSrc=devsql.hirezcorp.com:paladins_translations,
+[0035.54] Log: Assembly load completed in 15.60 seconds
+[0043.01] Log: FMaterialUniformExpressionTexture had invalid TextureIndex! (2/2)
+[0043.02] Log: TFC Version check: Low=3.3.3657.0 High=3.3.3657.0, Result=TRUE
+[0043.21] Log: Skipping adding Package OnlineSubsystemEpic to NetPackages
+[0043.25] Log: Skipping adding Package OnlineSubsystemPC to NetPackages
+[0063.15] Log: 129884 objects as part of root set at end of initial load.
+[0063.15] Log: 0 out of 0 bytes used by permanent object pool.
+[0063.15] Warning: StaticLoadObject for SwfMovie GFXFonts fonts_en couldn't find object in memory!
+[0063.15] Warning: Warning, Failed to load 'SwfMovie GFXFonts.fonts_en': Failed to find object 'SwfMovie GFXFonts.fonts_en'
+[0065.87] Log: Initializing Engine...
+[0067.06] Log: Discord Game SDK initialized 0
+[0067.12] Log: [FSocketWin::Bind] Binding to 0.0.0.0:7778
+[0067.12] DevNet: PComNetDriver_0(PEER) TcpNetDriver listening on port 7778
+[0068.14] Log: Couldn't find Master sound class! This class is required for the audio sound mode system to function!
+[0068.16] Log: Wwise(R) SDK Version 2016.2.3 Build 6077. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0068.18] Log: Start loading WWise Package Lookup Tables
+[0086.42] Log: Finished loading Wwise Packages.
+[0090.72] Log: Destroying viewport RHI due to zero NewSizeX and zero NewSizeY!
+[0090.72] Log: FViewport::UpdateViewportRHI(TRUE,0,0,TRUE)
+[0090.86] ScriptWarning: Script call stack:
+	Function TgClient.TgGameViewportClient:Init
+	Function PlatformCommon.PComGameViewportClient:Init
+	Function Engine.GameViewportClient:Init
+
+	TgGameViewportClient Transient.TgGameEngine_0:TgGameViewportClient_0
+	Function Engine.GameViewportClient:Init:0025
